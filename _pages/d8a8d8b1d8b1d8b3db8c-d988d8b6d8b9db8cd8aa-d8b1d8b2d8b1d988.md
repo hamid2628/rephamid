@@ -8,6 +8,6 @@ permalink: 'http://travel-to-iran-sarsy.com/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d9%8
 published: true
 post_date: 2018-06-27 03:58:55
 ---
-https://gist.github.com/65715de169d0e640d7c95e283b8d0183.git
+&lt;script src="https://gist.github.com/apintocr/65715de169d0e640d7c95e283b8d0183.js"&gt;&lt;/script&gt;
 
 &nbsp;
